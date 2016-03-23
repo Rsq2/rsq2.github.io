@@ -1,0 +1,3 @@
+endpoint:
+
+functioning webpage, complete with bio, navbar pointing to bio sections
